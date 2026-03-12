@@ -103,7 +103,7 @@ A development lab where I build **developer tools, SaaS platforms, and experimen
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=appinfinity&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=appinifinity&theme=tokyo-night"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ A development lab where I build **developer tools, SaaS platforms, and experimen
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/appinfinity/appinfinity/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/appinifinity/appinifinity/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
